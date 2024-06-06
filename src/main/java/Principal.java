@@ -9,9 +9,11 @@ public class Principal {
         vehiculo    vehiculo1 =  new Vehiculo ("Rockboster","Glibterz",2023);
         Motocicleta motocicleta1 = new Motocicleta ("Nissan","LGF",2021);
                      
-              
+        automovil1.imprimirInfo();
+        vehiculo1.imprimirInfo;
+        motocicleta1.imprimirInfo();
     }
-    
+
     
    
 }
