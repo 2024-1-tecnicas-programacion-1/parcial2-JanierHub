@@ -1,5 +1,7 @@
 package parcial2;
 
 public enum TipoMotocicleta {
-    // TODO: Tu código va aquí
+Deportiva,Touring,Naked,Cafe_Racer,Cruiser,Scooter,Enduro;
+
 }
+       
